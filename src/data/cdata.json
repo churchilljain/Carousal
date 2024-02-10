@@ -1,0 +1,24 @@
+{
+    "slides":[
+        {
+            "src":"https://picsum.photos/seed/img1/1300/650",
+            "alt":"1st image"
+        },
+        {
+            "src":"https://picsum.photos/seed/img2/1300/650",
+            "alt":"2nd image"
+        },
+        {
+            "src":"https://picsum.photos/seed/img3/1300/650",
+            "alt":"3rd image"
+        },
+        {
+            "src":"https://picsum.photos/seed/img4/1300/650",
+            "alt":"4th image"
+        },
+        {
+            "src":"https://picsum.photos/seed/img5/1300/650",
+            "alt":"5tt image"
+        }
+    ]
+}

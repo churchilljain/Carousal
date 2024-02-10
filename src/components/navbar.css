@@ -1,0 +1,25 @@
+.nbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    outline: none;
+    background-color: rgb(87, 87, 87);
+    /* padding top: 10px; */
+    padding-top: 10px;
+    flex-flow: row;
+}
+.nbar-nav{
+    display: flex;
+    list-style-type: none;
+}
+.n-item{
+    color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.n-item:hover{
+    color: rgb(157, 157, 157);
+}
